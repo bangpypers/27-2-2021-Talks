@@ -1,7 +1,8 @@
 # **About Maps and GIS**
 
 ### Speaker : Abhiram 
-- Slides and notes at : https://github.com/abhiramr/Talks_Resources/tree/master/Bangpypers_Feb_27_2021
+- Slides and notes at : https://github.com/abhiramr/Talks_Resources/tree/master/Bangpypers_Feb_27_2021 (Check README).
+- Colab Notebook : https://colab.research.google.com/drive/1adU5VgqH5DglH5WHDnZMNDobWlEXbmje?usp=sharing
 
 ----
 # General links based on Open House Talks
